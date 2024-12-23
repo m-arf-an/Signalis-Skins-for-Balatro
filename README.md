@@ -24,7 +24,6 @@ Requires 7-Zip, afaik WinRAR will not work
 ### PLEASE FOLLOW ORIGINAL ARTISTS
 
 spades face cards by twt@64suns
-pack & resprites by twt@m_arf_an
 
 
 
