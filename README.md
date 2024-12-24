@@ -3,12 +3,16 @@ Replaces some Default face card skins with signalis characters
 ### SKINS
 
 Falke as King of Spades
+
 Ariane as Queen of Spades
+
 Elster as Jack of Spades
 
 
 
 ### INSTALLATION
+
+#### WINDOWS INSTALLATION
 
 Requires 7-Zip, afaik WinRAR will not work
 
@@ -17,7 +21,7 @@ Requires 7-Zip, afaik WinRAR will not work
 
 2) Open Balatro.exe with 7-Zip as if it were a .zip
 
-3) Drag the "resources" folder into the 7-Zip folder
+3) Drag the "resources" folder from the zip file into the 7-Zip folder
 
 #### LINUX INSTALLATION
 
@@ -39,14 +43,27 @@ Manual Method
 ```
 
 
-### PLEASE FOLLOW ORIGINAL ARTISTS
+
+### Notes
+
+-if you already have a skin pack that replaces the Default poker card skins, this will delete your old pack.
+
+-if you wish to use parts of both skin packs, you'll have to edit the 2x/8BitDeck.png texture yourself
+
+-there is no high contrast version
+
+-i probably won't update this pack
+
+-Sesbian Lex
+
+
+
+## CREDITS
+
+#### ORIGINAL ARTISTS
 
 spades face cards by twt@64suns
 
+#### PACK
 
-
-### Notes
--if you already have a skin pack that replaces the Default poker card skins, this will delete your old pack.
--if you wish to use parts of both skin packs, you'll have to edit the 2x/8BitDeck.png texture yourself
--i probably won't update this pack
--Sesbian Lex
+linux installation guide and script by twt@gaykittycorps
